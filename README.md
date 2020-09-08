@@ -4,6 +4,7 @@
 * [Book - YDKJS](https://github.com/getify/You-Dont-Know-JS)
 * [Book - Deep JavaScript](https://exploringjs.com/deep-js/toc.html)
 * [Typescript cheatsheets](https://github.com/typescript-cheatsheets)
+* [RxJs Error Handling](https://blog.angular-university.io/rxjs-error-handling/)
 
 #### System Design
 * [Nginx blog - Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
