@@ -4,6 +4,7 @@
 * [Book - YDKJS](https://github.com/getify/You-Dont-Know-JS)
 * [Book - Deep JavaScript](https://exploringjs.com/deep-js/toc.html)
 * [Typescript cheatsheets](https://github.com/typescript-cheatsheets)
+* [Typescipt Module Resolution](https://www.typescriptlang.org/docs/handbook/module-resolution.html)
 * [RxJs Error Handling](https://blog.angular-university.io/rxjs-error-handling/)
 
 #### System Design
