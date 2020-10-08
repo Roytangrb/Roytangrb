@@ -14,6 +14,7 @@
 #### DevOps
 * [Docker best practices with Node.js](https://dev.to/nodepractices/docker-best-practices-with-node-js-4ln4)
 * [Azure AKS with APIM](https://docs.microsoft.com/en-us/azure/api-management/api-management-kubernetes)
+* [K8S - Distribute Credentials Securely Using Secrets](https://kubernetes.io/docs/tasks/inject-data-application/distribute-credentials-secure/)
 
 #### Database
 * [About Pool Sizing](https://github.com/brettwooldridge/HikariCP/wiki/About-Pool-Sizing)
