@@ -10,6 +10,7 @@
 #### System Design
 * [Nginx blog - Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
 * [Book - The Art of Scalability](http://theartofscalability.com/)
+* [Advanced Container Concepts - Julian Friedman](https://www.youtube.com/watch?v=nTdurlJfDEI&ab_channel=CloudFoundry)
 
 #### DevOps
 * [Docker best practices with Node.js](https://dev.to/nodepractices/docker-best-practices-with-node-js-4ln4)
