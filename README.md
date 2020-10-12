@@ -7,6 +7,9 @@
 * [Typescipt Module Resolution](https://www.typescriptlang.org/docs/handbook/module-resolution.html)
 * [RxJs Error Handling](https://blog.angular-university.io/rxjs-error-handling/)
 
+#### Go
+* [Understanding Go Interfaces](https://www.youtube.com/watch?v=F4wUrj6pmSI&feature=share&ab_channel=AstaXie)
+
 #### System Design
 * [Nginx blog - Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
 * [Book - The Art of Scalability](http://theartofscalability.com/)
