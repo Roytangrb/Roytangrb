@@ -7,6 +7,9 @@
 * [Typescipt Module Resolution](https://www.typescriptlang.org/docs/handbook/module-resolution.html)
 * [RxJs Error Handling](https://blog.angular-university.io/rxjs-error-handling/)
 
+#### C/C++
+* [Headers and Includes: Why and How](http://www.cplusplus.com/forum/articles/10627/)
+
 #### Go
 * [Understanding Go Interfaces](https://www.youtube.com/watch?v=F4wUrj6pmSI&feature=share&ab_channel=AstaXie)
 
