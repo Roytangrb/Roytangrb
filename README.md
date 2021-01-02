@@ -12,6 +12,8 @@
 
 #### Go
 * [Understanding Go Interfaces](https://www.youtube.com/watch?v=F4wUrj6pmSI&feature=share&ab_channel=AstaXie)
+* [Go package](https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc)
+* [Go module](https://medium.com/rungo/anatomy-of-modules-in-go-c8274d215c16)
 
 #### System Design
 * [Nginx blog - Introduction to Microservices](https://www.nginx.com/blog/introduction-to-microservices/)
