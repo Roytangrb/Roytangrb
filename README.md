@@ -8,6 +8,7 @@
 * [Typescript cheatsheets](https://github.com/typescript-cheatsheets)
 * [Typescipt Module Resolution](https://www.typescriptlang.org/docs/handbook/module-resolution.html)
 * [RxJs Error Handling](https://blog.angular-university.io/rxjs-error-handling/)
+* [JavaScript Typed Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays)
 
 </details>
 
