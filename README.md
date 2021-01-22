@@ -39,6 +39,7 @@
 * [Book - The Art of Scalability](http://theartofscalability.com/)
 * [Advanced Container Concepts - Julian Friedman](https://www.youtube.com/watch?v=nTdurlJfDEI&ab_channel=CloudFoundry)
 * [Book - Design Patterns: Elements of Reusable Object-Oriented Software](http://www.uml.org.cn/c++/pdf/designpatterns.pdf)
+* [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
 
 </details>
 
