@@ -41,6 +41,7 @@
 * [Book - Design Patterns: Elements of Reusable Object-Oriented Software](http://www.uml.org.cn/c++/pdf/designpatterns.pdf)
 * [Mocks Aren't Stubs](https://martinfowler.com/articles/mocksArentStubs.html)
 * RabbitMQ vs Kafka [1](https://betterprogramming.pub/rabbitmq-vs-kafka-1ef22a041793) [2](https://betterprogramming.pub/rabbitmq-vs-kafka-1779b5b70c41)
+* [Stateful and Stateless Authentication](https://medium.com/@kennch/stateful-and-stateless-authentication-10aa3e3d4986)
 
 </details>
 
