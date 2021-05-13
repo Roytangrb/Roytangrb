@@ -1,6 +1,13 @@
 ### Reading list 📖
 
 <details>
+<summary>AuthN & AuthZ</summary>
+
+* [Blog - JWT is a bad default](https://evertpot.com/jwt-is-a-bad-default/)
+
+</details>
+
+<details>
 <summary>JavaScript</summary>
 
 * [Book - YDKJS](https://github.com/getify/You-Dont-Know-JS)
