@@ -9,6 +9,20 @@
 </details>
 
 <details>
+<summary>Networking</summary>
+
+* [Envoy Introduction Series](https://www.youtube.com/watch?v=ZthWg-_Bg_c) (videos)
+
+</details>
+
+<details>
+<summary>PL</summary>
+
+* [CPython Bytecode and Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
+
+</details>
+
+<details>
 <summary>JavaScript</summary>
 
 * [Book - YDKJS](https://github.com/getify/You-Dont-Know-JS)
