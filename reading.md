@@ -1,9 +1,10 @@
 ### Reading list 📖
 
 <details>
-<summary>AuthN & AuthZ</summary>
+<summary>Auth</summary>
 
 * [Blog - JWT is a bad default](https://evertpot.com/jwt-is-a-bad-default/)
+* [OAuth 2.0 Authorization Flow Explained with Flow Charts](https://stack-auth.com/blog/oauth-from-first-principles)
 
 </details>
 
