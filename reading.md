@@ -38,6 +38,7 @@
 
 <summary>C/C++</summary>
 
+* [A Tour of C++](https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDM4286008&R=4286008)
 * [Headers and Includes: Why and How](http://www.cplusplus.com/forum/articles/10627/)
 
 </details>
